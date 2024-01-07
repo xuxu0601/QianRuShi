@@ -1,0 +1,35 @@
+.\objects\touch_key.o: ..\H\TPAD\touch_key.c
+.\objects\touch_key.o: ..\USER\stm32f10x.h
+.\objects\touch_key.o: ..\CORE\core_cm3.h
+.\objects\touch_key.o: D:\GAME 2022\game\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\touch_key.o: ..\USER\system_stm32f10x.h
+.\objects\touch_key.o: ..\USER\stm32f10x_conf.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\objects\touch_key.o: ..\USER\stm32f10x.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+.\objects\touch_key.o: ..\STM32F10x_FWLib\inc\misc.h
+.\objects\touch_key.o: ..\H\TPAD\touch_key.h
+.\objects\touch_key.o: ..\SYSTERM\sys\sys.h
+.\objects\touch_key.o: ..\SYSTERM\usart\usart.h
+.\objects\touch_key.o: D:\GAME 2022\game\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\touch_key.o: ..\SYSTERM\delay\delay.h
